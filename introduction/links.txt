@@ -1,0 +1,8 @@
+Tutorials:
+https://youtu.be/iOq5kSKqeR4
+https://web.archive.org/web/20170529020837/https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/
+https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation
+
+Problems:
+https://www.codechef.com/problems/TLG
+https://www.codechef.com/ZCOPRAC/problems/ZCO14001

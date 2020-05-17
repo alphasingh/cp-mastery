@@ -11,3 +11,7 @@
 1. fibonacci [see below and make generalisation on your own]
 2. factorial [base: 1?1; recursive1: >1?(n*f(n-1))]
 3. collatz [base: 1?0; recursive1: even?(n/2); recursive2: odd?(3n+1)]
+
+#### Real life instances:
+1. barber shop with 2 mirrors opposite to each other
+2. Matryoshka [doll](https://en.wikipedia.org/wiki/Matryoshka_doll)
